@@ -572,7 +572,7 @@
                                                         </constraints>
                                                         <state key="normal" title="Button"/>
                                                         <buttonConfiguration key="configuration" style="plain" title="Rate it">
-                                                            <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                            <color key="baseForegroundColor" systemColor="systemBackgroundColor"/>
                                                         </buttonConfiguration>
                                                         <connections>
                                                             <action selector="ratedButtonTapped:" destination="eFj-dF-IyG" eventType="touchUpInside" id="StO-uQ-R7f"/>
